@@ -34,7 +34,7 @@
     "i18n": "0.13.3",
     "libsodium-wrappers": "^0.7.9",
     "soundcloud.ts": "^0.4.1",
-    "spotify-url-info": "^2.2.3",
+    "spotify-url-info": "^3.0.6",
     "tslib": "^2.3.1",
     "winston": "^3.3.3",
     "youtube-dl-exec": "^1.2.6",
