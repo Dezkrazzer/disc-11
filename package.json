@@ -33,7 +33,7 @@
     "got": "^11.8.2",
     "i18n": "0.13.3",
     "libsodium-wrappers": "^0.7.9",
-    "soundcloud.ts": "^0.4.1",
+    "soundcloud.ts": "^0.4.6",
     "spotify-url-info": "^2.2.3",
     "tslib": "^2.3.1",
     "winston": "^3.3.3",
